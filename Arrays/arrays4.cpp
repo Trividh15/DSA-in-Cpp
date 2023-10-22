@@ -1,3 +1,4 @@
+//To find if an array is sorted or not
 #include<iostream>
 
 bool is_sorted(int arr[], int n)
