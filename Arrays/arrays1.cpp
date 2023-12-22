@@ -4,6 +4,7 @@
 
 //Appoach 2: Optimal Method-> Using loop
 
+//Implementation of Approach 2
 
 #include<iostream>
 int main ()
